@@ -1,4 +1,4 @@
-# OpenLeo's IVI system
+# OpenLeo's IVI system (Come discuss about it on our [Discord](https://discord.gg/evxp5ahPAS)!)
 
 ## Intro
 
